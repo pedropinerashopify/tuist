@@ -4,6 +4,7 @@
 [![CircleCI](https://circleci.com/gh/tuist/tuist.svg?style=svg)](https://circleci.com/gh/tuist/tuist)
 [![codecov](https://codecov.io/gh/tuist/tuist/branch/master/graph/badge.svg)](https://codecov.io/gh/tuist/tuist)
 [![Slack](http://slack.tuist.io/badge.svg)](http://slack.tuist.io)
+[![Canny](https://img.shields.io/badge/check-our%20roadmap-blue.svg)](http://feedback.tuist.io)
 
 ## What's Tuist 🕺
 
